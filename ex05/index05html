@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+	<header>Technical Blog </header>
+    <nav>
+        Home
+        HTML 
+        Python
+        JavaScript
+    </nav>
+    
+    <main>
+        <section>
+
+            <article>
+            
+                HTML Semantic Elements
+                Semantic HTML gives meaning to the structure of a web page.
+            </article>
+        </section>
+    </main>
+    
+    <aside>
+        useful technical topics 
+    
+    </aside>
+    
+    <footer>
+        technical blog
+    </footer>
+</body>
+</html>
